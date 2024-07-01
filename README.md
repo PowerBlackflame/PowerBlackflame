@@ -7,7 +7,6 @@ You can click the Preview link to take a look at your changes.
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>PowerBlackflame</title>
   </head>
   <body>
     <h1>👋 Ello ello, I’m @PowerBlackflame</h1>
